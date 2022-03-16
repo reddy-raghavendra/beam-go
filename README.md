@@ -2,7 +2,8 @@
 
 ## Steps to run the word count
 *   Install go from [Go](https://go.dev/learn/)
-*   Check the go version using the command: go version
+*   Check the go version using the command: 
+    ```go version```
 *   Get the apache beam go sdk using the command:
     ```go get -u github.com/apache/beam/sdks/v2/go/pkg/beam```
 *   Install the wordcount example using the command:
